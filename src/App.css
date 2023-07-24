@@ -43,7 +43,7 @@
 }
 
 body {
-  font-family: sans-serif;
+  font-family: verdana;
 }
 
 a {
@@ -106,8 +106,8 @@ nav {
   bottom: 2px;
   height: 1px;
   width: 95%;
-  max-width: 255px;
-  background-color: #333;
+  max-width: 250px;
+  background-color: pink;
 }
 .three .link:hover {
   border-radius: 20px;
